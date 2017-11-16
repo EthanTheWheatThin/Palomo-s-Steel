@@ -1,0 +1,71 @@
+h1{
+    color: rgb(130,76,113);
+    font-family: Amatic SC;
+    font-size: 5.5em;
+}
+h2, h3{
+    color: rgb(130,76,113);
+    font-family: Amatic SC;
+    text-align: center;
+    font-size:2.5em;
+}
+body{
+    background-color: rgb(190,165,125);
+  
+    margin-top: 0px;
+    margin-right:0px;
+    margin-bottom:0px;
+    margin-left:0px;
+}
+p{
+    color: rgb(74,37,69);
+    font-family: Nunito;
+    font-size: 1em;
+}
+th{
+    color: rgb(74,37,69);
+}
+td{
+    color:rgb(74,37,69);
+}
+footer{
+    color:rgb(74,37,69);
+}
+a{
+    color: rgb(130,76,113);
+}
+ul{
+    padding: 10px;
+    font-size: 1em;
+    font-family: Amatic SC;
+}
+.hlinks{
+    display: inline;
+    padding: 5px 5px 5px 5px;
+    color: rgb(130,76,113);
+    font-size:2.5em;
+}
+header{
+    text-align: center;
+    padding: 20px 0px 0px 0px;
+    background-size: cover;
+    background-position: center;
+    background-color: rgb(5,4,1);
+    background-repeat: no-repeat;
+}
+div{
+    text-align: center;
+}
+img{
+    border: 7px solid black;
+}
+li{
+    padding: 0px 10px 0px 10px;
+    color: rgb(130,76,113);
+    font-size: 1.5em;
+    font-family: Amatic SC;
+}
+.header-links{
+    display: inline;
+    padding: 5px 5px 5px 5px;
+}

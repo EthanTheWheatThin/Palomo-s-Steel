@@ -38,6 +38,7 @@ ul{
     padding: 10px;
     font-size: 1em;
     font-family: Amatic SC;
+    display: inline;
 }
 .hlinks{
     display: inline;

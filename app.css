@@ -64,6 +64,7 @@ li{
     color: rgb(130,76,113);
     font-size: 1.5em;
     font-family: Amatic SC;
+    display: inline;
 }
 .header-links{
     display: inline;

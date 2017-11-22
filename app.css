@@ -6,14 +6,12 @@ h1{
     margin: 0px;
 }
 h2{	
-
    color: rgb(130,76,113);
    font-family: Amatic SC;
    font-size: 35px;
 }
 body{
     background-color: rgb(190,165,125);
-  
     margin-top: 0px;
     margin-right:0px;
     margin-bottom:0px;
@@ -58,9 +56,6 @@ header{
     background-position: center;
     background-color: rgb(5,4,1);
     background-repeat: no-repeat;
-}
-div{
-    text-align: center;
 }
 img{
 	  border: 7px solid black;

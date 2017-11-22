@@ -1,9 +1,11 @@
 h1{
+    text-align: center;
     color: rgb(130,76,113);
     font-family: Amatic SC;
-    font-size: 5.5em;
+    font-size: 40px;
+    margin: 0px;
 }
-h2, h3{
+h2{
     color: rgb(130,76,113);
     font-family: Amatic SC;
     text-align: center;
@@ -20,25 +22,22 @@ body{
 p{
     color: rgb(74,37,69);
     font-family: Nunito;
-    font-size: 1em;
+    padding-top: 5px;
 }
 th{
     color: rgb(74,37,69);
+
 }
-td{
+td, tr {
     color:rgb(74,37,69);
-}
-footer{
-    color:rgb(74,37,69);
+    padding: 15px;
 }
 a{
     color: rgb(130,76,113);
 }
 ul{
     padding: 10px;
-    font-size: 1em;
     font-family: Amatic SC;
-    display: inline;
 }
 .hlinks{
     display: inline;
@@ -58,16 +57,21 @@ div{
     text-align: center;
 }
 img{
-    border: 7px solid black;
+  border: 7px solid black;
+  border-radius: 20px;
+	display: block;
+    margin: auto;
 }
 li{
-    padding: 0px 10px 0px 10px;
     color: rgb(130,76,113);
-    font-size: 1.5em;
     font-family: Amatic SC;
-    display: inline;
 }
-.header-links{
-    display: inline;
-    padding: 5px 5px 5px 5px;
+.header-links {
+	padding: 10px 10px 10px 10px;
+    background: rgba(0,0,0,0.5);
+
 }
+.title {
+    font-size: 60px;
+        margin: 0px;
+    padding: 100px 10px 30px 10px;

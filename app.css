@@ -40,9 +40,10 @@ ul{
     font-family:  Nunito;
 }
 .hlinks{
-    display: inline;
-    padding: 5px 5px 5px 5px;
-    color: rgb(130,76,113);
+	display: inline;
+	padding: 5px 5px 5px 5px;
+	color: rgb(130,76,113);
+	font-family: Amatic SC;
 }
 .atm-links {
     color: rgb(130,76,113);

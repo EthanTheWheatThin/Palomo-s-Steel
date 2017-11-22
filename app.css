@@ -9,7 +9,6 @@ h2{
     color: rgb(130,76,113);
     font-family: Amatic SC;
     text-align: center;
-    font-size:2.5em;
 }
 body{
     background-color: rgb(190,165,125);
@@ -66,7 +65,7 @@ img{
 }
 li{
     color: rgb(130,76,113);
-    font-family:  Nunito;
+    font-family:  Amatic SC;
 }
 .header-links {
 	padding: 10px 10px 10px 10px;
@@ -77,4 +76,7 @@ li{
     font-size: 60px;
         margin: 0px;
     padding: 100px 10px 30px 10px;
+}
+tr{
+	height: 50px;
 }

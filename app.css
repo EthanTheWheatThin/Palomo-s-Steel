@@ -55,7 +55,7 @@ header{
     padding: 20px 0px 0px 0px;
     background-size: cover;
     background-position: center;
-    background: url("images/background.jpg");
+    background: black;
     background-repeat: no-repeat;
 }
 img{
